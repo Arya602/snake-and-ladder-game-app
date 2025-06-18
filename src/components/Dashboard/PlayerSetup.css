@@ -1,0 +1,47 @@
+.start-game-btn {
+    color: black !important;
+    background-color: rgba(255, 255, 255, 0.7) !important;
+    border-radius: 30px !important;
+    outline: none !important;
+    border: none !important;
+}
+
+.form-container{
+    padding: 30px;
+    color: black !important;
+    background-color: rgba(255, 255, 255, 0.7) !important;
+    border-radius: 15px !important;
+}
+
+.no-of-player-dropdown {
+    width: 100%;
+    padding: 7px;
+    border-radius: 30px;
+    color: black;
+    line-height: 1.4375em;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.no-of-player-dropdown:hover {
+    border: 2px solid black;
+}
+
+.token-icon{
+    margin-top: 10px;
+}
+
+.start-game-text {
+  font-family: 'Arial', sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  padding: 10px;
+}
+
+.play-btn{
+    color: white !important;
+    background-color: maroon !important;
+}
